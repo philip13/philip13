@@ -43,13 +43,13 @@ I am Full Stack Software Developer with more than seven years of experience. I a
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/philip13"><img src="https://github-readme-stats.vercel.app/api?username=philip13&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="philip13's GitHub stats" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=philip13&show_icons=true&hide=stars,stars=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="philip13's GitHub stats" /></a>
 
 <a href="http://www.github.com/philip13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=philip13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/philip13"><img src="https://activity-graph.herokuapp.com/graph?username=philip13&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/philip13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philip13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/philip13" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=philip13&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%5%Languages&hide=shell,CoffeeScript,Java,Dockerfile,Procfile,CSS" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 

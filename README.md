@@ -5,15 +5,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full stack Developer
 --------------------
 
-I am Full Stack Software Developer with more than seven years of experience. I am a programmer for several Web Apps with Ruby on Rails and JavaScript technologies. I really enjoy all the technologies that I have used and I want to continue to improve my knowledge and keep learning more exciting languages and design algorithms and solutions that can improve the applications and systems.
+I am a Full-stack Software Developer with more than seven years of experience. I am a programmer for several Web Apps with Ruby on Rails and JavaScript technologies. I enjoy all the technologies I have used and want to continue to improve my knowledge and keep learning more exciting languages and design algorithms and solutions that can improve the applications and systems.
 
 * 🌍  I'm based in CD Guzman Jal. México
 * 🖥️  See my portfolio at [My Portfolio](http://mr-phillip-technogolies.herokuapp.com)
 * ✉️  You can contact me at [fili.cueavas@gmail.com](mailto:fili.cueavas@gmail.com)
 * 🚀  I'm currently working on [AgroReports](http://agro-reports.onrender.com/)
 * 🧠  I'm learning Hotwire and Turbo, Big O Notation+
-* 🤝  I'm open to collaborating on Javascript and Ruby
-* ⚡  I really enjoy mountain bike
+* 🤝  I'm open to collaborating on Ruby and Javascript
+* ⚡  I enjoy mountain bike
 
 ### Skills
 
@@ -44,9 +44,7 @@ I am Full Stack Software Developer with more than seven years of experience. I a
 
 <b>My GitHub Stats</b>
 
-<a href="https://github-readme-stats.vercel.app/api?username=philip13&show_icons=true&hide=stars,stars=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="philip13's GitHub stats" /></a>
-
-<a href="http://www.github.com/philip13"><img src="https://github-readme-streak-stats.herokuapp.com/?user=philip13&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/philip13"><img src="https://github-readme-stats.vercel.app/api?username=philip13&show_icons=true&hide=stars,stars=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" /></a>
 
 <a href="http://www.github.com/philip13"><img src="https://activity-graph.herokuapp.com/graph?username=philip13&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 

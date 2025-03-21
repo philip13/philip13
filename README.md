@@ -8,7 +8,7 @@ Full stack Developer
 I am a Full-stack Software Developer with more than seven years of experience. I am a programmer for several Web Apps with Ruby on Rails and JavaScript technologies. I enjoy all the technologies I have used and want to continue to improve my knowledge and keep learning more exciting languages and design algorithms and solutions that can improve the applications and systems.
 
 * 🌍  I'm based in CD Guzman Jal. México
-* 🖥️  See my portfolio at [My Portfolio](http://mr-phillip-technogolies.herokuapp.com)
+<-! * 🖥️  See my portfolio at [My Portfolio](http://mr-phillip-technogolies.herokuapp.com) ->
 * ✉️  You can contact me at [fili.cueavas@gmail.com](mailto:fili.cueavas@gmail.com)
 * 🚀  I'm currently working on [AgroReports](http://agro-reports.onrender.com/)
 * 🧠  I'm learning Hotwire and Turbo, Big O Notation+
